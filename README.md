@@ -8,7 +8,11 @@ This project was developed to strengthen understanding of Java programming funda
 
 ## 📸 Preview
 
-> Screenshot coming soon.
+![Home](asset/java-1.png)
+
+![Result](asset/java-2.png)
+
+![Result](asset/java-3.png)
 
 ---
 
